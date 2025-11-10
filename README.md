@@ -13,8 +13,7 @@ pip install -r requirements.txt
 2. Create a `.env` file:
 
 ```
-HOST=127.0.0.1
-PORT=8000
+cp .env.example .env
 ```
 
 3. Run the server:
